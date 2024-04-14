@@ -32,4 +32,4 @@ Contributions are welcome!
 
 ## Get in Touch 📫
 
-Have any questions or suggestions? Feel free to reach out to us at [here](amanuelt212@gmail.com).
+Have any questions or suggestions? Feel free to reach out to us at [here](mailto:amanuelt212@gmail.com).
