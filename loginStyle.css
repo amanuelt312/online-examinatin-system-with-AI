@@ -1,0 +1,65 @@
+.container {
+  padding: 20px;
+}
+body {
+  margin: 0px;
+  background-image: url(bk.png);
+  background-size: cover;
+
+  color: white;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 16px;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  color: #0f2535;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 0 auto; /* Center the form horizontally */
+  max-width: 400px; /* Set a maximum width for the form */
+  padding: 20px;
+}
+h2,
+h4 {
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 30%;
+  padding: 10px;
+  background-color: #0077c5;
+  border-radius: 4px;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #0f2535;
+  text-decoration: none;
+}
+
+.error-message {
+  text-align: center;
+  color: red;
+  margin-top: 10px;
+}

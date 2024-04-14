@@ -1,0 +1,54 @@
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+body {
+  font-family: "Sumana", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header,
+footer,
+main {
+  padding: 18px;
+}
+
+main {
+  margin: 24px auto;
+}
+
+h1,
+p {
+  margin-bottom: 24px;
+}
+
+p {
+  line-height: 1.4;
+}
+
+label {
+  font-weight: 700;
+}
+
+header {
+  color: white;
+  background-color: mediumaquamarine;
+}
+
+footer {
+  color: white;
+  background-color: lightseagreen;
+}
+
+.main-content {
+  display: none;
+}
