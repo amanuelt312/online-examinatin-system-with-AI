@@ -222,7 +222,7 @@
  
      $_SESSION['aiGenerated'] = false;
 
-     $client = OpenAI::client('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');
+     $client = OpenAI::client('openaiAPIkey');
      echo "True or False";
      $result1 = $client->completions()->create([
        'model' => 'text-davinci-003',
