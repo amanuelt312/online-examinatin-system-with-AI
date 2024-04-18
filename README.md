@@ -1,5 +1,5 @@
 # online-examinatin-system-with-AI
-# Online Examination System with ChatGPT Integration 📝🤖
+# Online Examination System with ChatGPT Integration 🤖
 
 Welcome to the Online Examination System project! This web-based platform allows teachers to create and upload questions, students to take exams, and features an integrated ChatGPT AI for generating questions based on topics provided by teachers.
 
